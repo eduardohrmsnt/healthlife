@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586057104326",
+    "project_id": "healthlife-8707a",
+    "storage_bucket": "healthlife-8707a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586057104326:android:9489ccc896716d476050c7",
+        "android_client_info": {
+          "package_name": "com.example.healthlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586057104326-cjl8c78gkmr528r3pk1pvhc0oa7i0tdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlygBY91kILyEXWR4VllXuGA5RgivJfJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586057104326-cjl8c78gkmr528r3pk1pvhc0oa7i0tdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
